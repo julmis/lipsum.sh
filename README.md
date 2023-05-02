@@ -1,1 +1,1 @@
-# lipsum.sh
+# lorem.sh
